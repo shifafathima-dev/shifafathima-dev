@@ -1,26 +1,27 @@
+ 
 👋 Hi, I'm Shifa Fathima
 
-🎓 Second-Year BCA Student | 🇮🇳 Kerala, India
+🎓 Second-Year BCA Student | Calicut University | 🇮🇳 Kerala, India
 
-I'm passionate about learning programming, solving problems, and building projects that improve my skills. I'm currently growing my knowledge in software and web development while exploring new technologies.
+I'm passionate about learning programming and improving my problem-solving skills. I'm building a strong foundation in computer science and look forward to creating real-world projects as I continue my BCA journey.
 
 ---
 
 🚀 Currently Learning
 
 - C Programming
-- Python Programming
-- Data Structures & Algorithms
-- Database Management System (DBMS)
-- HTML & CSS
+- Python
+- Data Structures
+- Database Management Systems (DBMS)
+- Web Development (HTML & CSS)
 - Git & GitHub
 
 ---
 
-🎯 Goals for 2026
+🎯 Goals
 
-- Build real-world software projects
-- Strengthen problem-solving skills
+- Build my first software projects
+- Strengthen my programming skills
 - Learn modern web development
 - Contribute to open-source projects
 - Prepare for internships and placements
@@ -29,30 +30,35 @@ I'm passionate about learning programming, solving problems, and building projec
 
 🛠️ Tech Stack
 
-- Languages: C, Python
-- Web: HTML, CSS
-- Tools: Git, GitHub, VS Code
+Languages: C, Python
+
+Web Technologies: HTML, CSS
+
+Tools: Git, GitHub, Visual Studio Code
+
+Currently Exploring: Data Structures and DBMS
 
 ---
 
 📂 Featured Projects
 
 🚧 Coming Soon...
-I'm currently learning and will be uploading my projects here soon!
 
+I'm currently learning and practicing programming. I'll be uploading my college assignments, practice programs, and personal projects as I continue my learning journey.
 
 ---
 
-📈 Currently Working On
+📈 Current Focus
 
-- Improving programming skills
-- Building new GitHub projects
-- Learning by creating practical applications
+- Practicing programming every week
+- Learning Git & GitHub
+- Building a strong foundation in computer science
+- Preparing to create my first portfolio projects
 
 ---
 
 🌟 Fun Fact
 
-I enjoy learning new technologies and believe every project is an opportunity to improve.
+I enjoy learning new technologies and believe that every small step brings me closer to becoming a skilled software developer.
 
-⭐ Thanks for visiting my profile!
+⭐ Thank you for visiting my profile!
