@@ -55,4 +55,4 @@ I'm currently learning and will be uploading my projects here soon!
 
 I enjoy learning new technologies and believe every project is an opportunity to improve.
 
-⭐ Thanks for visiting my profile
+⭐ Thanks for visiting my profile!
